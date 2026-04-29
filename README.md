@@ -28,3 +28,5 @@ Pull Requests sind willkommen. Für größere Änderungen bitte zuerst ein
 Issue eröffnen.
 
 Änderung auf lokaler Kopie
+
+Änderung auf Github
