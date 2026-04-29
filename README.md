@@ -26,3 +26,5 @@ Mein allererstes Github REPO! Ja ja jaaa!
 
 Pull Requests sind willkommen. Für größere Änderungen bitte zuerst ein
 Issue eröffnen.
+
+Änderung auf lokaler Kopie
